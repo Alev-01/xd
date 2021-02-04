@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.discordapp.com	TRUE	/	FALSE	1999999999	__cfduid	d74b1483531555187c3ea48960b8dcc271612446800
+cdn.discordapp.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.pekmen.net	TRUE	/	FALSE	1999999999	__cfduid	d057fd780d8c0100768b7c655ac7a912f1612446805
+pekmen.net	TRUE	/	FALSE	1999999999	SameSite	Lax
+
